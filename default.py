@@ -30,7 +30,7 @@ YOUTUBE_CHANNEL_ID_8 = "PLbQ-gSLYQEc6IWgKJNOMUONgtNXdwVcDC"
 YOUTUBE_CHANNEL_ID_9 = "PL8ByfLs8i7KT9Swtj0uQe1Wm98kkFIocH"
 YOUTUBE_CHANNEL_ID_10 = "PLZQwwCu9Y8bduFA1jCUQwQKDGlCo68t8k"
 YOUTUBE_CHANNEL_ID_11 = "PLE72EBEB8564D1357"
-YOUTUBE_CHANNEL_ID_12 = "PLySo2SlSHPSODlQTwnsqEyP9CcTMQpYg_"
+YOUTUBE_CHANNEL_ID_12 = "PLEBE-1UGewOEXFZYzwPSwuSFza6k4QId8"
 YOUTUBE_CHANNEL_ID_13 = "PLySo2SlSHPSPsMPvx3vXPmReAe05Vro9H"
 YOUTUBE_CHANNEL_ID_14 = "PLySo2SlSHPSMTwqoNnjALvrxbyhP5sPQ0"
 YOUTUBE_CHANNEL_ID_15 = "PL6fJmjt84zZhVlt_nTOeWQM8FCOEg4V4s"
@@ -141,7 +141,7 @@ def main_list(params):
         
     plugintools.add_item( 
         #action="", 
-        title="Speed Runs",
+        title="NES Speed Runs",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_12+"/",
         thumbnail="http://s3.media.squarespace.com/production/544173/6277734/wp-content/uploads/2009/05/half-life-2.jpg",
         fanart="https://s-media-cache-ak0.pinimg.com/originals/61/af/35/61af351b7f5ebf11a79f29ff5c59ea86.jpg",
