@@ -66,7 +66,7 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
-        title="Games Master P",
+        title="Games Master",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_2+"/",
         thumbnail="http://vignette1.wikia.nocookie.net/magazinesfromthepast/images/5/5e/GamesMaster_Issue_8.jpg/revision/latest?cb=20130624082416",
         fanart="http://megagames.com/sites/default/files/game-content-images/gamesmaster.jpg",
