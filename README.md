@@ -7,3 +7,6 @@ A simple addon for kodi that streams classic retro tvshows from YouTube. Watch a
 
 Based on code from the YouTube Addon
 ==========================
+![enter image description here](http://www.superluigibros.com/images/super_mario_bros_super_show_releases/mario_bros_mix.jpg) 
+![enter image description here](http://megagames.com/sites/default/files/game-content-images/gamesmaster.jpg)
+![enter image description here](http://vignette1.wikia.nocookie.net/magazinesfromthepast/images/3/3a/Bad_Influence_Issue_1.jpg/revision/latest?cb=20141128220822)
