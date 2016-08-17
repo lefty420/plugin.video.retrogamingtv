@@ -66,7 +66,7 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
-        title="The Games Master Season 1-7",
+        title="Games Master P",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_2+"/",
         thumbnail="http://vignette1.wikia.nocookie.net/magazinesfromthepast/images/5/5e/GamesMaster_Issue_8.jpg/revision/latest?cb=20130624082416",
         fanart="http://megagames.com/sites/default/files/game-content-images/gamesmaster.jpg",
@@ -75,7 +75,7 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
-        title="Bad Influence Season 01-04",
+        title="Bad Influence",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_3+"/",
         thumbnail="http://vignette1.wikia.nocookie.net/magazinesfromthepast/images/3/3a/Bad_Influence_Issue_1.jpg/revision/latest?cb=20141128220822",
         fanart="http://vignette1.wikia.nocookie.net/magazinesfromthepast/images/3/3a/Bad_Influence_Issue_1.jpg/revision/latest?cb=20141128220822",
