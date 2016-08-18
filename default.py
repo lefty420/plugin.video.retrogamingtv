@@ -68,7 +68,7 @@ def main_list(params):
         #action="", 
         title="Games Master",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_2+"/",
-        thumbnail="http://vignette1.wikia.nocookie.net/magazinesfromthepast/images/5/5e/GamesMaster_Issue_8.jpg/revision/latest?cb=20130624082416",
+        thumbnail="http://thetvdb.com/banners/posters/71472-2.jpg",
         fanart="http://megagames.com/sites/default/files/game-content-images/gamesmaster.jpg",
         
         folder=True )
@@ -77,7 +77,7 @@ def main_list(params):
         #action="", 
         title="Bad Influence",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_3+"/",
-        thumbnail="http://vignette1.wikia.nocookie.net/magazinesfromthepast/images/3/3a/Bad_Influence_Issue_1.jpg/revision/latest?cb=20141128220822",
+        thumbnail="http://thetvdb.com/banners/posters/96341-1.jpg",
         fanart="http://vignette1.wikia.nocookie.net/magazinesfromthepast/images/3/3a/Bad_Influence_Issue_1.jpg/revision/latest?cb=20141128220822",
         folder=True )
 
