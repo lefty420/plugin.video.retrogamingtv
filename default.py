@@ -90,6 +90,14 @@ def main_list(params):
         thumbnail="https://static.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/51ce619ce4b0d911b449a1d0/1333603993933/1000w/hitchcock4420121.jpeg",
         fanart="https://i.ytimg.com/vi/uRuzzzMODi8/maxresdefault.jpg",
         folder=True )  
+
+    plugintools.add_item( 
+        #action="", 
+        title="Video Game Nation",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_4+"/",
+        thumbnail="https://s-media-cache-ak0.pinimg.com/736x/e6/52/3f/e6523f23e24a0764c987f4f9bb81c743.jpg",
+        fanart="http://thetvdb.com/banners/fanart/original/301412-1.jpg",
+        folder=True ) 
     
     plugintools.add_item( 
         #action="", 
@@ -107,13 +115,6 @@ def main_list(params):
         fanart="https://mpgs.scdn3.secure.raxcdn.com/images/kcfinder/upload/image/NesWall.jpg",
         folder=True )   
            
-    plugintools.add_item( 
-        #action="", 
-        title="Video Game Nation",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_4+"/",
-        thumbnail="https://s-media-cache-ak0.pinimg.com/736x/e6/52/3f/e6523f23e24a0764c987f4f9bb81c743.jpg",
-        fanart="http://thetvdb.com/banners/fanart/original/301412-1.jpg",
-        folder=True ) 
         
     plugintools.add_item( 
         #action="", 
