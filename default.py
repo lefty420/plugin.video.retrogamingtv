@@ -142,7 +142,7 @@ def main_list(params):
     plugintools.add_item( 
         #action="", 
         title="NES Speed Runs",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_12+"/",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_12+"/playlists",
         thumbnail="http://s3.media.squarespace.com/production/544173/6277734/wp-content/uploads/2009/05/half-life-2.jpg",
         fanart="https://s-media-cache-ak0.pinimg.com/originals/61/af/35/61af351b7f5ebf11a79f29ff5c59ea86.jpg",
         folder=True )               
