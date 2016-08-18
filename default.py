@@ -61,7 +61,7 @@ def main_list(params):
         url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_1+"/playlists/",
         thumbnail="http://www.superluigibros.com/images/super_mario_bros_super_show_releases/mario_bros_mix.jpg",
         fanart="https://i.ytimg.com/vi/_7mW3JM8dpE/maxresdefault.jpg",
-        
+        info="watch classic gaming cartoons from mario bros. to captain n the games master",
         folder=True )
 
     plugintools.add_item( 
