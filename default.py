@@ -112,7 +112,7 @@ def main_list(params):
         title="Video Game Nation",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_4+"/",
         thumbnail="https://s-media-cache-ak0.pinimg.com/736x/e6/52/3f/e6523f23e24a0764c987f4f9bb81c743.jpg",
-        fanart="http://i.imgur.com/Gc4Xa.jpg",
+        fanart="http://thetvdb.com/banners/fanart/original/301412-1.jpg",
         folder=True ) 
         
     plugintools.add_item( 
